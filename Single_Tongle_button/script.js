@@ -1,13 +1,14 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyD4r9IZ4nDeFWVTv4W52nB_13l1YC6d7fc",
-    authDomain: "toggle-button-3d8fe.firebaseapp.com",
-    databaseURL: "https://toggle-button-3d8fe-default-rtdb.firebaseio.com",
-    projectId: "toggle-button-3d8fe",
-    storageBucket: "toggle-button-3d8fe.appspot.com",
-    messagingSenderId: "807063547069",
-    appId: "1:807063547069:web:0ca44bccf198b408de1bd4",
-    measurementId: "G-7Q81S5145B"
+    apiKey: "AIzaSyBek-iqPInBPXouGgZhJVSQC5VQkDuynUw",
+    authDomain: "ligar-led-test.firebaseapp.com",
+    databaseURL: "https://ligar-led-test-default-rtdb.firebaseio.com",
+    projectId: "ligar-led-test",
+    storageBucket: "ligar-led-test.appspot.com",
+    messagingSenderId: "955973531915",
+    appId: "1:955973531915:web:c85eb1f3ebeb21f10c4a0e",
+    measurementId: "G-GB5CF1YCLX"
   };
+
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
 
